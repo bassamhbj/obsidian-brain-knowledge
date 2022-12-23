@@ -66,27 +66,55 @@
             }
           },
           {
-            "id": "5c2186ad501a8427",
+            "id": "e006e79c83e9e4fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base Knowledge.md",
+                "file": "DevOps/DevOps.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e006e79c83e9e4fa",
+            "id": "efd1992bdcb38e95",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Operatios/Operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d90edcf35a5fd30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Operatios/Operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79975921cea8cdd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/DevOps.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base Knowledge.md",
+                "file": "DevOps/DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base Knowledge.md",
+                "file": "DevOps/DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base Knowledge.md"
+                "file": "DevOps/DevOps.md"
               }
             }
           }
@@ -213,16 +241,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c386f596e637ce5b",
+  "active": "e006e79c83e9e4fa",
   "lastOpenFiles": [
+    "Base Knowledge.md",
+    "DevOps/DevOps.md",
+    "DevOps/Operatios/Operations.md",
+    "DevOps/Development/Development.md",
+    "Snowflake/Development/Development.md",
     "Snowflake/Development/Snowpark/Snowpark.md",
     "Snowflake/Development/Snowflake Connector/Snowflake Connector.md",
-    "Base Knowledge.md",
     "Snowflake/Snowflake.md",
-    "Snowflake/Development/Development.md",
     "CICD/CICD.md",
-    "CICD.md",
-    "Snowpark/Snowpark.md",
-    "Snowflake.md"
+    "CICD.md"
   ]
 }

@@ -1,7 +1,7 @@
 # [[Snowflake]]
 
+# [[DevOps]]
 
-# [[CICD]]
 
 
 
