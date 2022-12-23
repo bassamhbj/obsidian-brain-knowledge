@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8ed8279e6731957",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Base Knowledge/Base Knowledge.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Base Knowledge/Base Knowledge.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,14 +120,21 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Base Knowledge/Base Knowledge.md"
-          }
+          "state": {}
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "5910b6c843d4fdce",
-  "lastOpenFiles": []
+  "active": "b8ed8279e6731957",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Base Knowledge/Base Knowledge.md",
+    "Base Knowledge/DevOps/DevOps.md",
+    "Base Knowledge/Data/Data.md",
+    "Base Knowledge/Data/Data Types/Data Types.md",
+    "Base Knowledge/Data/Data Types/Unstructured/Unstructured Data.md",
+    "Base Knowledge/Data/Data Types/Structured/Structured Data.md",
+    "README.md"
+  ]
 }
