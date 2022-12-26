@@ -1,0 +1,4 @@
+# Plataforms
+
+- [[Azure Pipelines]]
+- 
