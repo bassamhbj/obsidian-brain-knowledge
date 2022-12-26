@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base Knowledge/Base Knowledge.md",
+                "file": "Base Knowledge/Data/Storage/Database/NoSQL Database/NoSQL Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Base Knowledge/Data/Storage/Database/NoSQL Database/NoSQL Database.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Base Knowledge/Data/Storage/Database/NoSQL Database/NoSQL Database.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -120,21 +121,25 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Base Knowledge/Data/Storage/Database/NoSQL Database/NoSQL Database.md"
+          }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "b8ed8279e6731957",
+  "active": "5910b6c843d4fdce",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Base Knowledge/Base Knowledge.md",
-    "Base Knowledge/DevOps/DevOps.md",
     "Base Knowledge/Data/Data.md",
-    "Base Knowledge/Data/Data Types/Data Types.md",
-    "Base Knowledge/Data/Data Types/Unstructured/Unstructured Data.md",
-    "Base Knowledge/Data/Data Types/Structured/Structured Data.md",
-    "README.md"
+    "Base Knowledge/Data/Storage/Database/NoSQL Database/NoSQL Database.md",
+    "Base Knowledge/Data/Storage/Storage.md",
+    "Base Knowledge/Data/Storage/Database/Database.md",
+    "Base Knowledge/Data/BI/BI.md",
+    "Base Knowledge/Data/Storage/Database/SQL Database/SQL Database.md",
+    "Base Knowledge/Snowflake/Development/Development.md",
+    "Base Knowledge/DevOps/DevOps.md",
+    "Base Knowledge/Base Knowledge.md",
+    "Base Knowledge/Infrastructure/Infrastructure.md"
   ]
 }

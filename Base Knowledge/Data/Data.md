@@ -1,1 +1,6 @@
 # [[Data Types]]
+
+# [[BI]]
+
+# [[Storage]]
+

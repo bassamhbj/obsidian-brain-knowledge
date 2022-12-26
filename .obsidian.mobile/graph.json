@@ -1,11 +1,11 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "path:\"Base Knowledge/Data\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Base Knowledge/Snowflake\"",
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "path:\"Base Knowledge/Infrastructure\"",
+      "color": {
+        "a": 1,
+        "rgb": 16734013
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 134,
-  "scale": 2.089039121340904,
+  "scale": 2.9551882216579015,
   "close": true
 }
