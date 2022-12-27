@@ -18,27 +18,18 @@
             }
           },
           {
-            "id": "91663c21e254416d",
+            "id": "67f8f0093dc05ac2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/CICD/Tools/Azure Pipelines.md",
+                "file": "Base Knowledge.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "9a84391846bf3cbe",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,17 +152,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a84391846bf3cbe",
+  "active": "a85d93fdaf1fbd21",
   "lastOpenFiles": [
+    "Attachment/Pasted image 20221226141235.png",
+    "Attachment/Pasted image 20221226140915.png",
+    "Base Knowledge.md",
+    "Source Code/Source Code.md",
+    "Source Code/Git.md",
     "DevOps/CICD/Tools/Azure Pipelines.md",
     "DevOps/CICD/Tools/Tools.md",
     "DevOps/CICD/CICD.md",
     "DevOps/DevOps.md",
-    "Data/Storage/Database/NoSQL Database/NoSQL Database.md",
-    "Snowflake/Development/Snowpark/Snowpark.md",
-    "Base Knowledge.md",
-    "DevOps/Operatios/Operations.md",
-    "DevOps/Development/Development.md",
-    "Snowflake/Development/Development.md"
+    "Data/Storage/Database/NoSQL Database/NoSQL Database.md"
   ]
 }
