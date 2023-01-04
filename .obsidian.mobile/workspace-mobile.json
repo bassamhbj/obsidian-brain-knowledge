@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base Knowledge/Data/Storage/Database/NoSQL Database/NoSQL Database.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,8 +23,12 @@
             "id": "b8ed8279e6731957",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data/Storage/Database/NoSQL Database/NoSQL Database.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Base Knowledge/Data/Storage/Database/NoSQL Database/NoSQL Database.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Base Knowledge/Data/Storage/Database/NoSQL Database/NoSQL Database.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Base Knowledge/Data/Storage/Database/NoSQL Database/NoSQL Database.md"
+            "file": "README.md"
           }
         }
       }
@@ -131,15 +135,15 @@
   },
   "active": "5910b6c843d4fdce",
   "lastOpenFiles": [
-    "Base Knowledge/Data/Data.md",
-    "Base Knowledge/Data/Storage/Database/NoSQL Database/NoSQL Database.md",
-    "Base Knowledge/Data/Storage/Storage.md",
-    "Base Knowledge/Data/Storage/Database/Database.md",
-    "Base Knowledge/Data/BI/BI.md",
-    "Base Knowledge/Data/Storage/Database/SQL Database/SQL Database.md",
-    "Base Knowledge/Snowflake/Development/Development.md",
-    "Base Knowledge/DevOps/DevOps.md",
-    "Base Knowledge/Base Knowledge.md",
-    "Base Knowledge/Infrastructure/Infrastructure.md"
+    "Data/Platform/Azure Synapse Analytics.md",
+    "README.md",
+    "Data/Storage/Database/Database.md",
+    "Data/Data Types/Data Types.md",
+    "Data/Data Types/Structured/Structured Data.md",
+    "Data/Data Types/Semi-Structured/Semi-Structured Data.md",
+    "Data/Data Types/Unstructured/Unstructured Data.md",
+    "Data/BI/Development/Dev Tools.md",
+    "Data/BI/Development/Python DataFrame.md",
+    "Data/BI/Development/Streamlit.md"
   ]
 }

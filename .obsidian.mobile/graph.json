@@ -1,38 +1,45 @@
 {
   "collapse-filter": true,
-  "search": "path:\"Base Knowledge/Data\"",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Base Knowledge/Snowflake\"",
+      "query": "path:\"Snowflake\"",
       "color": {
         "a": 1,
         "rgb": 2646004
       }
     },
     {
-      "query": "path:\"Base Knowledge/DevOps\"",
+      "query": "path:\"DevOps\"",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:\"Base Knowledge/Data\"",
+      "query": "path:\"Data\"",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "path:\"Base Knowledge/Infrastructure\"",
+      "query": "path:\"Infrastructure\"",
       "color": {
         "a": 1,
         "rgb": 16734013
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 134,
-  "scale": 2.9551882216579015,
+  "scale": 1.820141821115232,
   "close": true
 }

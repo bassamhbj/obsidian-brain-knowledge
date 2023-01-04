@@ -1,2 +1,14 @@
 # obsidian-brain-knowledge
-Test
+
+## Pending Topics
+- BI
+	- PowerBI
+	- DataFrame
+	- Streamlit
+- AI
+	- AIOps
+- Data
+	- Spark
+	- Parquet
+- Coding
+	- Encryption 
