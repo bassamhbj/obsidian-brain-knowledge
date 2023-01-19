@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Data/BI/Development/Streamlit.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Data/BI/Development/Streamlit.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Data/BI/Development/Streamlit.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Data/BI/Development/Streamlit.md"
           }
         }
       }
@@ -135,15 +135,15 @@
   },
   "active": "5910b6c843d4fdce",
   "lastOpenFiles": [
-    "Data/Platform/Azure Synapse Analytics.md",
-    "README.md",
-    "Data/Storage/Database/Database.md",
-    "Data/Data Types/Data Types.md",
-    "Data/Data Types/Structured/Structured Data.md",
-    "Data/Data Types/Semi-Structured/Semi-Structured Data.md",
-    "Data/Data Types/Unstructured/Unstructured Data.md",
-    "Data/BI/Development/Dev Tools.md",
+    "DevOps/CICD/Tools/Tools.md",
+    "DevOps/CICD/Tools/Azure Pipelines.md",
+    "DevOps/Development/Development.md",
+    "Source Code/Git.md",
+    "Source Code/Source Code.md",
+    "Data/Storage/Database/SQL Database/SQL Database.md",
+    "Data/Storage/Database/NoSQL Database/NoSQL Database.md",
     "Data/BI/Development/Python DataFrame.md",
-    "Data/BI/Development/Streamlit.md"
+    "README.md",
+    "Data/Platform/Azure Synapse Analytics.md"
   ]
 }

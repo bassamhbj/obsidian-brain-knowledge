@@ -12,3 +12,5 @@
 	- Parquet
 - Coding
 	- Encryption 
+- Software 
+	- Testing
