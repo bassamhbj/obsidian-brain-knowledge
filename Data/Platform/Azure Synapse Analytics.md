@@ -49,7 +49,7 @@
 | Term | Definition |
 | - | - |
 | Synapse Workspace | - Azure Resource </br> - Use ADLS Gen2 with file system for temp data | 
-| SQL/Sark pool | Computing resources? |
+| SQL/Spark pool | Computing resources? |
 | Linked services | Connection strings for external services |
 | Synapse SQL | Ability to do T-SQL based analytics |
 | Apache Spark | - Spark Notebooks: For data science (C#, Scala, PyShark, SparkSQL) </br> - Spark Jobs: batch jobs (jar)

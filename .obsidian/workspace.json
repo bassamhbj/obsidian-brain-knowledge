@@ -11,9 +11,11 @@
             "id": "a85d93fdaf1fbd21",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "Source Code/Git.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -95,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Source Code/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Source Code/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Source Code/Git.md"
+              }
             }
           }
         ]
@@ -154,15 +160,15 @@
   },
   "active": "a85d93fdaf1fbd21",
   "lastOpenFiles": [
+    "Data/BI/Development/Streamlit.md",
+    "Data/BI/Development/Python DataFrame.md",
+    "Source Code/Git.md",
+    "Source Code/Source Code.md",
+    "Snowflake/Development/Snowpark/Snowpark.md",
+    "Data/Platform/Azure Synapse Analytics.md",
+    "Base Knowledge.md",
     "Attachment/Pasted image 20221226141235.png",
     "Attachment/Pasted image 20221226140915.png",
-    "Base Knowledge.md",
-    "Source Code/Source Code.md",
-    "Source Code/Git.md",
-    "DevOps/CICD/Tools/Azure Pipelines.md",
-    "DevOps/CICD/Tools/Tools.md",
-    "DevOps/CICD/CICD.md",
-    "DevOps/DevOps.md",
-    "Data/Storage/Database/NoSQL Database/NoSQL Database.md"
+    "DevOps/CICD/Tools/Azure Pipelines.md"
   ]
 }

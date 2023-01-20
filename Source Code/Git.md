@@ -1,4 +1,4 @@
-## Add .gitignore to an existing repo
+git fetch## Add .gitignore to an existing repo
 1. Add `.gitignore` file
 2. Execute the following commands
 ```
@@ -38,4 +38,16 @@ git stash -u
 2. Pop stash
 ```
 git stash pop
+```
+
+### Push new branch to remote repo
+1. Create branch
+```
+git branch <branch_name>
+git checkout <branch_name>
+```
+
+2. Push branch
+```
+git push -u origin <branch_name>
 ```
